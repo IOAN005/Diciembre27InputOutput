@@ -4,18 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dc4075e6-2d89-4239-9343-7427472483a5" name="Changes" comment="">
+    <list default="true" id="dc4075e6-2d89-4239-9343-7427472483a5" name="Changes" comment="claseJavaio">
+      <change afterPath="$PROJECT_DIR$/src/com/corenetworks/modelo/Producto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/corenetworks/presentacion/ProbarDataReaderStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/corenetworks/presentacion/ProbarObjectReaderStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/corenetworks/presentacion/ProbarObjectWriterStream.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/corenetworks/presentacion/Ejercicio1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/corenetworks/presentacion/Ejercicio1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/corenetworks/presentacion/Ejercicio2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/corenetworks/presentacion/Ejercicio2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/corenetworks/presentacion/ProbarBufferReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/corenetworks/presentacion/ProbarBufferReader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/corenetworks/presentacion/ProbarBufferWriter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/corenetworks/presentacion/ProbarBufferWriter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/corenetworks/presentacion/ProbarFileOutputStream.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/corenetworks/presentacion/ProbarFileOutputStream.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/corenetworks/presentacion/ProbarFileReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/corenetworks/presentacion/ProbarFileReader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/corenetworks/presentacion/ProbrarFileWriter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/corenetworks/presentacion/ProbrarFileWriter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/corenetworks/presentacion/ejercicio3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/corenetworks/presentacion/ejercicio3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/corenetworks/presentacion/ejercicio8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/corenetworks/presentacion/ejercicio8.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,9 +26,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2a83oVEYKtvwNbOLrsF0UdoHBjn" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -45,38 +39,13 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "master",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ejercicio8">
-    <configuration name="Ejercicio1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.corenetworks.presentacion.Ejercicio1" />
-      <module name="Diciembre27InputOutput" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.corenetworks.presentacion.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Ejercicio2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.corenetworks.presentacion.Ejercicio2" />
-      <module name="Diciembre27InputOutput" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.corenetworks.presentacion.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ProbarBufferReader" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.corenetworks.presentacion.ProbarBufferReader" />
+  <component name="RunManager" selected="Application.ProbarObjectReaderStream">
+    <configuration name="ProbarDataReaderStream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.corenetworks.presentacion.ProbarDataReaderStream" />
       <module name="Diciembre27InputOutput" />
       <extension name="coverage">
         <pattern>
@@ -90,6 +59,32 @@
     </configuration>
     <configuration name="ProbarFileOutputStream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.corenetworks.presentacion.ProbarFileOutputStream" />
+      <module name="Diciembre27InputOutput" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.corenetworks.presentacion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProbarObjectReaderStream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.corenetworks.presentacion.ProbarObjectReaderStream" />
+      <module name="Diciembre27InputOutput" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.corenetworks.presentacion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProbarObjectWriterStream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.corenetworks.presentacion.ProbarObjectWriterStream" />
       <module name="Diciembre27InputOutput" />
       <extension name="coverage">
         <pattern>
@@ -116,11 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ProbarObjectReaderStream" />
+        <item itemvalue="Application.ProbarObjectWriterStream" />
+        <item itemvalue="Application.ProbarDataReaderStream" />
         <item itemvalue="Application.ejercicio8" />
         <item itemvalue="Application.ProbarFileOutputStream" />
-        <item itemvalue="Application.ProbarBufferReader" />
-        <item itemvalue="Application.Ejercicio2" />
-        <item itemvalue="Application.Ejercicio1" />
       </list>
     </recent_temporary>
   </component>
@@ -133,6 +128,19 @@
       <option name="presentableId" value="Default" />
       <updated>1703686555738</updated>
     </task>
+    <task id="LOCAL-00001" summary="claseJavaio">
+      <option name="closed" value="true" />
+      <created>1703703529431</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1703703529431</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="claseJavaio" />
+    <option name="LAST_COMMIT_MESSAGE" value="claseJavaio" />
   </component>
 </project>
